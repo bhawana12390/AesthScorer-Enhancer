@@ -56,7 +56,7 @@ export function HistorySidebar({
                 isCollapsed && 'hidden'
               )}
             >
-              ImageBoost AI
+              ImageEnhancer AI
             </h1>
           </div>
           <SidebarTrigger />
