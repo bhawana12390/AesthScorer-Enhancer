@@ -70,7 +70,7 @@ The backend server is responsible for running the machine learning models to rat
 > 2. Change line 8 from:
 >    `from torchvision.transforms.functional_tensor import rgb_to_grayscale`
 >    **To:**
->    `from torchvision.transforms.functional import rgb_to_grayscale`'
+>    `from torchvision.transforms.functional import rgb_to_grayscale`
 
 4.  **Download the ML Models:**
     Place your model files (`best_model_3.pth` and `RealESRGAN_x4plus_anime_6B.pth`) into a `ml_models` directory within your backend folder.
