@@ -1,4 +1,4 @@
-# ImageBoost AI: AI-Powered Image Enhancement
+# AesthScorer-Enhancer: AI-Powered Image Enhancement
 
 ImageBoost AI is a web application that allows you to assess and enhance the quality of your images using powerful machine learning models. Upload an image, get an initial quality score, and then see the magic happen as our AI enhances it. The application provides a clear side-by-side comparison of the original and enhanced images, along with detailed metrics on the quality improvement.
 
